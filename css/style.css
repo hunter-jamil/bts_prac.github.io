@@ -1,0 +1,65 @@
+.header{
+    background-color: #A1C3F7;
+    min-height: 100px; 
+    margin-bottom: 10px;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.brand, .global_nav, .tools{
+    min-height: 70px;
+    background-color: #D0E2FC;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.slider{
+    max-height: 150px; 
+    margin-bottom: 10px;
+}
+.hero{
+    min-height: 150px;
+    background-color: #A1C3F7; 
+    margin-bottom: 10px;
+}
+.hero_feature, .hero_call_to_action{
+    min-height: 120px;
+    background-color: #D0E2FC;
+    text-align: center;
+}
+.advertisement{
+     min-height: 150px;
+     background-color: darkcyan;
+     text-align: center;
+     margin-top: -20px;
+}
+.body_part{
+    min-height: 500px;
+    background-color: #A1C3F7; 
+    margin-bottom: 10px;
+}
+.article_feature, .article_listing{
+    background-color: #D0E2FC;
+    text-align: center;
+    min-height: 470px;
+}
+.sidebar{
+    background-color: #A1C3F7;
+    min-height: 500px;
+    margin-bottom: 10px;
+}
+.sidebar_feature{
+    text-align: center;
+    background-color: #D0E2FC;
+    min-height: 470px;
+}
+.footer{
+    background-color: #A1C3F7;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+.footer_section{
+    background-color: #D0E2FC;
+    text-align: center;
+    min-height: 70px;
+}
